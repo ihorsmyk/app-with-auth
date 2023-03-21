@@ -1,0 +1,2 @@
+.users{display:flex;flex-direction:column;max-width:-webkit-max-content;max-width:max-content;padding:20px;row-gap:10px}.users__item{background-color:var(--c);border-radius:5px;border-radius:3px;color:inherit;padding:10px;transition:background-color .25s cubic-bezier(.4,0,.2,1),color .25s cubic-bezier(.4,0,.2,1)}.users__item:focus,.users__item:hover{background-color:var(--b);color:var(--c)}.users__link{color:inherit;text-decoration:none}
+/*# sourceMappingURL=24.af8ac7b7.chunk.css.map*/

@@ -1,0 +1,2 @@
+.posts{display:flex;flex-direction:column;max-width:-webkit-max-content;max-width:max-content;padding:20px;row-gap:10px}.posts__item{background-color:var(--c);border-radius:5px;border-radius:3px;padding:10px;transition:background-color .25s cubic-bezier(.4,0,.2,1),color .25s cubic-bezier(.4,0,.2,1)}.posts__item:focus,.posts__item:hover{background-color:var(--b);color:var(--c)}.posts__link{color:inherit;text-decoration:none}
+/*# sourceMappingURL=732.d9c55997.chunk.css.map*/

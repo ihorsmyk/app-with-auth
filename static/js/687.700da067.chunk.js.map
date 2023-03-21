@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/687.700da067.chunk.js","mappings":"6KAMA,EAJiB,WACf,OAAO,eAAIA,UAAU,oBAAd,2BACR,C","sources":["pages/NotFound/NotFound.jsx"],"sourcesContent":["import './NotFound.scss';\n\nconst NotFound = () => {\n  return <h3 className=\"not-found-message\">page not found</h3>;\n};\n\nexport default NotFound;\n"],"names":["className"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp_with_auth=self.webpackChunkapp_with_auth||[]).push([[687],{9687:function(n,t,u){u.r(t),u.d(t,{default:function(){return a}});var e=u(184),a=function(){return(0,e.jsx)("h3",{className:"not-found-message",children:"page not found"})}}}]);
+//# sourceMappingURL=687.700da067.chunk.js.map
