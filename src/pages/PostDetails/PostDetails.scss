@@ -1,0 +1,10 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  row-gap: 25px;
+  padding: 20px;
+  margin: 20px;
+  background-color: var(--c);
+  box-shadow: 0 0 6px 1px;
+  border-radius: 5px;
+}

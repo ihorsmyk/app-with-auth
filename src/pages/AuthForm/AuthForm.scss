@@ -1,0 +1,26 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+  background-color: var(--c);
+  box-shadow: 0 0 6px 1px;
+  border-radius: 5px;
+  padding: 50px;
+  color: inherit;
+  font-size: 25px;
+
+  &__input {
+    display: inline-block;
+    width: 100%;
+    font: inherit;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    margin: 2px;
+    padding: 5px;
+  }
+  &__btn{
+    margin-top: 25px;
+  }
+}
+
